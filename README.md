@@ -5,6 +5,9 @@
 
 **Plant Disease Prediction** is a machine learning-based project designed to identify plant diseases from leaf images using **Convolutional Neural Networks (CNN)** and **Random Forest classifiers**. The goal is to assist farmers and agriculturalists in detecting diseases early to improve crop health and yield.
 
+## video presentation
+drive link https://drive.google.com/file/d/1DnnqSdx6FHINvAYZGhsCckHSWeEnBi_p/view?usp=drive_link
+
 ## 🚀 Features
 
 - 📷 Image-based plant disease classification  
