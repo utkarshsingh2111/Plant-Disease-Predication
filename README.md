@@ -1,7 +1,5 @@
 # Plant-Disease-Predication
-#Team Member
-1. Utkarsh (2401560034)
-2. Ankit (2401560019
+
 
 **Plant Disease Prediction** is a machine learning-based project designed to identify plant diseases from leaf images using **Convolutional Neural Networks (CNN)** and **Random Forest classifiers**. The goal is to assist farmers and agriculturalists in detecting diseases early to improve crop health and yield.
 
